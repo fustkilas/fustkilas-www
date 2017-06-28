@@ -1,0 +1,3 @@
+[submodule "themes/crud"]
+  path = themes/crud
+  url = https://github.com/fustkilas/crud.git
