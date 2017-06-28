@@ -1,0 +1,4 @@
+baseURL = "http://fustkilas.github.io/"
+languageCode = "en-us"
+title = "Fust Kilas, Internet Mage™"
+theme = "crud"
